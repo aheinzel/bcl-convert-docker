@@ -21,8 +21,8 @@ docker build -t aheinzel/bcl-convert .
 
 ## How to run this image with singularity
  - Build sif image from docker image (only required once)
-  - Export docker image to tar archive
-  - Build sif image from docker image tar archive
+   - Export docker image to tar archive
+   - Build sif image from docker image tar archive
  - Run sif image
 
 ```
