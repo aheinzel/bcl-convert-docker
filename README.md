@@ -47,4 +47,4 @@ singularity \
       --output-directory /work/YYY_FASTQ \
       --no-lane-splitting true
 ```
-** replace XXX with the path of the folder that should be made available in the container and YYY with the name of your run folder **
+**replace XXX with the path of the folder that should be made available in the container and YYY with the name of your run folder**
